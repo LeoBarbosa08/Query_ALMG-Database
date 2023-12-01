@@ -25,7 +25,7 @@
   ![image](https://github.com/LeoBarbosa08/Query_ALMG-Database/assets/84389162/c0b8ea8f-6c63-477d-81e8-72b76558268d)
   <br>
   <br>
-- It is worth mentioning that the settings for accessing the bank differ from computer to computer as we see in the image below
+- It is worth mentioning that the settings for accessing the bank differ from <b>computer to computer</b> as we see in the image below
   <br>
   <br>
  ![image](https://github.com/LeoBarbosa08/Query_ALMG-Database/assets/84389162/61a3e0b9-5a12-40cd-815d-a1ae039158b9)
