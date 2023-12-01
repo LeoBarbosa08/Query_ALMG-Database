@@ -23,3 +23,7 @@
  <a href="https://learn.microsoft.com/en-us/sql/connect/jdbc/release-notes-for-the-jdbc-driver?view=sql-server-ver16"> download here </a> 
   
   ![image](https://github.com/LeoBarbosa08/Query_ALMG-Database/assets/84389162/c0b8ea8f-6c63-477d-81e8-72b76558268d)
+
+  - It is worth mentioning that the settings for accessing the bank differ from computer to computer as we see in the image below
+    ![image](https://github.com/LeoBarbosa08/Query_ALMG-Database/assets/84389162/61a3e0b9-5a12-40cd-815d-a1ae039158b9)
+
