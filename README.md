@@ -2,7 +2,7 @@
 - Code that provides a local link with an SQL database that provides a search for an employee in a simulated database of the IT area of ​​the legislative assembly of Minas Gerais (<a href= "https://www.almg.gov.br/" target="_blank">ALMG</a>)
 - You can <b>locate employees using different filters</b> such as:
 <b>
-<ul>Registracion </ul>
+<ul>- Registracion </ul>
   - Name
   - CPF
   - Salary
