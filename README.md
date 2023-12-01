@@ -18,3 +18,4 @@
   - Jobs
   - States
   - Salarys
+# How to run the application
