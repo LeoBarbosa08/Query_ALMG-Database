@@ -19,3 +19,5 @@
   - States
   - Salarys
 # How to run the application
+- First you need to have <b>mssql-jdbc_auth-12.4.0.x64.dll</b> in your project folder to authenticate the SQL server environment
+- ![image](https://github.com/LeoBarbosa08/Query_ALMG-Database/assets/84389162/c0b8ea8f-6c63-477d-81e8-72b76558268d)
